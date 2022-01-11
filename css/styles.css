@@ -604,6 +604,9 @@ header.header-active .navbar a {
     .about {
         text-align: center;
     }
+    .faq {
+        padding-top: 0;
+    }
 }
 
 @media (max-width:500px) {
